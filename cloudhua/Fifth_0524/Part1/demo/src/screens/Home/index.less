@@ -1,0 +1,103 @@
+.home-logo {
+  display: flex;
+  align-items: center;
+}
+.home-title {
+  flex: 1;
+  color: #fff;
+  font-size: 16px;
+}
+.home-layout {
+  display: flex;
+  flex: 1;
+  height: 100%;
+  overflow: hidden;
+  flex-direction: column;
+  background-color: #f7f7f7;
+}
+.home-header {
+  height: 64px;
+  padding: 0 50px;
+  line-height: 64px;
+  background: #001529;
+}
+.header-right button {
+  margin-left: 10px;
+}
+.home-body {
+  flex: 1;
+  display: flex;
+  position: relative;
+}
+.home-side {
+  position: relative;
+  display: flex;
+  height: 100%;
+  width: 180px;
+  background-color: #fff;
+  border-right: 1px solid #e8e8e8;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  overflow-y: auto;
+  transition: 0.3s all ease;
+
+  .ant-menu-inline {
+    border-right: none;
+  }
+}
+.home-content {
+  flex: 1;
+  height: 100%;
+  overflow: auto;
+}
+.side-bar {
+  pointer-events: none;
+  position: absolute;
+  left: 160px;
+  top: 0;
+  bottom: 0;
+  width: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: 16px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  transition: 0.3s left ease;
+}
+.fold-btn {
+  pointer-events: all;
+  position: relative;
+  width: 20px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: #fff;
+  z-index: 999;
+}
+.fold-bg {
+  width: 0;
+  height: 50px;
+  position: absolute;
+  right: 0;
+  left: auto;
+  border-bottom: 15px solid transparent;
+  border-left: none;
+  border-right: 20px solid #001529;
+  border-top: 15px solid transparent;
+}
+.fold-icon {
+  position: absolute;
+  z-index: 10;
+}
+.folded {
+  .home-side {
+    width: 0;
+  }
+  .side-bar {
+    left: 0;
+    transform: rotate(180deg);
+  }
+}

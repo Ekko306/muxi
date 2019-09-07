@@ -1,0 +1,133 @@
+<div className="top">
+    <div className="container">
+      <div className="top-logo">
+     </div>
+      <ul className="top-holder style" >
+        <li className="top-blocks style">
+          <a className="top-blocks-a">
+          Spider-Man
+          </a>
+        </li>
+        <li className="top-blocks style">
+          <a className="top-blocks-a">
+          Iron Man
+         </a>
+        </li>
+    
+        <li className="top-blocks style">
+          <a className="top-blocks-a">
+          Caption America
+          </a>
+        </li>
+        
+        <li className="top-blocks style">
+          <a className="top-blocks-a">
+          Hulk
+          </a>
+        </li>
+      
+        <li className="top-blocks style">
+          <a className="top-blocks-a">
+          Wolverine
+          </a>
+        </li>
+        
+        <li className="top-blocks style">
+          <a className="top-blocks-a">
+          Deadpool
+         </a>
+        </li>
+        <li className="top-blocks style">
+         <a className="top-blocks-a">
+            简 | 繁 | EN
+        </a>
+          </li>
+        </ul>
+    </div>
+  </div>
+  
+
+    <div className="billboard">
+      <div className="linesblocks">
+      <a>此处输入大型文字与动态图片/视屏（后面学习）</a>
+      </div>
+    </div>
+  
+    <div className="block1">
+      <div className="spanblocks"></div>
+      <div className="head1">
+        <h3 className="lines1">
+          <span>
+            "Cheetah Mobile-invested artificial intelligence company OrionStar possesses completely self-developed,"
+          </span>
+          <br>
+          <span>
+            "industry-leading technology, including far-field voice interaction, image recognition and visual navigation systems."
+          </span>
+        </h3>
+      </div>
+      <div className="head1-block">
+        <a>(上方文字AI大写后期学习)此处作为容器插入图片和文字 </a>
+      </div>
+    </div>
+  
+    <div className="block2">
+      <div className="spanblocks"></div>
+      <div className="head2">
+        <h3 className="lines1">
+          <span>
+            "As the #1 developer in Google Play's tool app category, Cheetah Mobile offers"
+          </span>
+          <br>
+          <span>
+            "the world's leading security, cleaning, personalization and safe browser software."
+          </span>
+        </h3>
+      </div>
+      <div className="head2-block1">
+        <a>(上方文字大写Utility后期学习）此处为容器1</a>
+      </div>
+      <div className="head2-block2">
+        <a>此处为容器2</a>
+      </div>
+      <div className="head2-block3">
+        <a>此处为容器3</a>
+      </div>
+      <div className="head2-block4">
+        <a>此处为容器4</a>
+      </div>
+      <div className="head2-block5">
+        <a>此处为容器5</a>
+      </div>
+      <div className="head2-block6">
+        <a>此处为容器6</a>
+      </div>
+    </div>
+    
+    <div className="block3">
+      <div className="spanblocks31"></div>
+      <div className="head3">
+        <h3 className="lines3">
+          <span>
+            "With combined MAUs surpassing 1 billion globally"
+          </span>
+          <br>
+          <span>
+            "Cheetah Games is one of the largest casual game developers in the world"
+          </span>
+        </h3>
+      </div>
+      <div className="spanblocks32"></div>
+      <div className="head3-block1">
+        <a>(上方文字大写Games后期学习)此处为容器1</a>
+      </div>
+      <div className="head3-block2">
+        <a>此处为容器2</a>
+      </div>
+    </div>
+
+    <div className="blocks4">
+      <div className="blocks4-system">
+        <a>此处为而外联系功能实现容器，含有文字竖直排版与超链接</a>
+      </div>
+    </div>

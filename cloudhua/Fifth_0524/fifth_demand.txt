@@ -1,0 +1,9 @@
+Part1：
+完善这次课的信息展示。
+Part2:
+完成上次作业（猎豹网站react实现）
+Part3:
+React
+Redux
+React Router
+了解清楚

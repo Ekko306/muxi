@@ -1,0 +1,26 @@
+课后作业
+========================
+# 作业内容
+完成[猎豹英文官网:http://www.cmcm.com/en-us/](http://www.cmcm.com/en-us/)的静态页面。
+
+# 要求
+学会使用Chrome工具查看对应模块的文档结构（html标签结构），大家可以照搬该文档结构（未显示的元素可不用写入）。
+学会使用Chrome工具分析元素css样式的构成，大家可以直接使用分析到的css样式。
+<!-- 1. 尽量采用flex布局，采用Html5新的标签 -->
+2. 不考虑界面内动画效果
+3. 不考虑交互部分
+4. 根据自己的能力，可以选择完成相应级别的作业内容：
+>level1: 以下模块，用色块代替，不必实现具体内容
+>1. Smart Voice OS
+>2. Clean Master
+>3. Security Master
+>4. CM Launcher
+>5. Cheetah Keyboard
+>6. PhotoGrid
+>7. CM Browser
+>8. Live.me
+>9. Games下各个图片
+>level2: 在level1的基础上，任选level1中的4个模块进行实现。
+>level3: 全部网页模块
+>level4: 运用媒体查询模块，实现相同的网页自适应
+5. 作业在周五中午12点之前提交。

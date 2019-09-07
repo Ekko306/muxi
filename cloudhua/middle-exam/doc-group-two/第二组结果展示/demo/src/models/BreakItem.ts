@@ -1,0 +1,18 @@
+export interface BreakItem {
+    "order_price": 0,
+    // noverdue_time:number,
+    // numberOrder:String,
+    // order_status:number,
+    // cover:number,
+    // internal_number:number,
+    // name_obj:string,
+    // name_market:string,
+    // name_shop:string,
+    // nickname:string,
+    // phone:number,
+    // ctime:number,
+    // done_amount:number,
+    // service_charge:number,
+    "total_deposit": 0,
+    // "discount_price": 0,
+  }
